@@ -1,0 +1,20 @@
+# Persönliche Dateien
+*.txt
+*.md
+
+# Backup-Dateien
+*.bak
+*~
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Editor-Dateien
+.vscode/
+.idea/
+*.swp
+*.swo
+
